@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <cstdlib>
 #include <string>
-#include <inttypes.h>
+#include <cinttypes>
 
 namespace inet
 {
